@@ -28,4 +28,4 @@ Para ejecutar esta aplicación localmente:
     `streamlit run capm.py`
 
 O lo puedes probar directamente aquí:
-[Ver demo]("https://capm-app.streamlit.app/")
+[Ver demo](https://capm-app.streamlit.app/)
