@@ -26,3 +26,6 @@ Para ejecutar esta aplicación localmente:
 - Ejecute la aplicación con streamlit run capm.py desde la línea de comandos.
     
     `streamlit run capm.py`
+
+O lo puedes probar directamente aquí:
+[Ver demo]("https://capm-app.streamlit.app/")
